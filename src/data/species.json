@@ -1,0 +1,839 @@
+[
+  {
+    "index": 1,
+    "name": "Aarakocra",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "aarakocra_mpmm"
+  },
+  {
+    "index": 2,
+    "name": "Aasimar",
+    "heritage": "None",
+    "size": "Small/Medium",
+    "source": "PHB'24",
+    "source_full": "Player’s Handbook (2024)",
+    "slug": "aasimar_xphb"
+  },
+  {
+    "index": 3,
+    "name": "Astral Elf",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "AAG",
+    "source_full": "Astral Adventurer’s Guide",
+    "slug": "astral_elf_aag"
+  },
+  {
+    "index": 4,
+    "name": "Autognome",
+    "heritage": "Lineage",
+    "size": "Small",
+    "source": "AAG",
+    "source_full": "Astral Adventurer’s Guide",
+    "slug": "autognome_aag"
+  },
+  {
+    "index": 5,
+    "name": "Boggart",
+    "heritage": "None",
+    "size": "Small",
+    "source": "LFL",
+    "source_full": "Lorwyn: First Light",
+    "slug": "boggart_lfl"
+  },
+  {
+    "index": 6,
+    "name": "Bugbear",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "bugbear_mpmm"
+  },
+  {
+    "index": 7,
+    "name": "Centaur",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "centaur_mpmm"
+  },
+  {
+    "index": 8,
+    "name": "Changeling",
+    "heritage": "None",
+    "size": "Small/Medium",
+    "source": "EFA",
+    "source_full": "Eberron: Forge of the Artificer",
+    "slug": "changeling_efa"
+  },
+  {
+    "index": 9,
+    "name": "Custom Lineage",
+    "heritage": "Any +2",
+    "size": "Small/Medium",
+    "source": "TCE",
+    "source_full": "Tasha’s Cauldron of Everything",
+    "slug": "custom_lineage_tce"
+  },
+  {
+    "index": 10,
+    "name": "Deep Gnome",
+    "heritage": "Lineage",
+    "size": "Small",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "deep_gnome_mpmm"
+  },
+  {
+    "index": 11,
+    "name": "Dhampir",
+    "heritage": "None",
+    "size": "Small/Medium",
+    "source": "ABH",
+    "source_full": "Astarion’s Book of Hungers",
+    "slug": "dhampir_abh"
+  },
+  {
+    "index": 12,
+    "name": "Dragonborn",
+    "heritage": "None",
+    "size": "Medium",
+    "source": "PHB'24",
+    "source_full": "Player’s Handbook (2024)",
+    "slug": "dragonborn_xphb"
+  },
+  {
+    "index": 13,
+    "name": "Dragonborn (Draconblood)",
+    "heritage": "Int +2; Cha +1",
+    "size": "Medium",
+    "source": "EGW",
+    "source_full": "Explorer’s Guide to Wildemount",
+    "slug": "dragonborn_draconblood_egw"
+  },
+  {
+    "index": 14,
+    "name": "Dragonborn (Gem)",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "FTD",
+    "source_full": "Fizban’s Treasury of Dragons",
+    "slug": "dragonborn_gem_ftd"
+  },
+  {
+    "index": 15,
+    "name": "Dragonborn (Ravenite)",
+    "heritage": "Str +2; Con +1",
+    "size": "Medium",
+    "source": "EGW",
+    "source_full": "Explorer’s Guide to Wildemount",
+    "slug": "dragonborn_ravenite_egw"
+  },
+  {
+    "index": 16,
+    "name": "Duergar",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "duergar_mpmm"
+  },
+  {
+    "index": 17,
+    "name": "Dwarf",
+    "heritage": "None",
+    "size": "Medium",
+    "source": "PHB'24",
+    "source_full": "Player’s Handbook (2024)",
+    "slug": "dwarf_xphb"
+  },
+  {
+    "index": 18,
+    "name": "Eladrin",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "eladrin_mpmm"
+  },
+  {
+    "index": 19,
+    "name": "Elf",
+    "heritage": "None",
+    "size": "Medium",
+    "source": "LFL",
+    "source_full": "Lorwyn: First Light",
+    "slug": "elf_lfl"
+  },
+  {
+    "index": 20,
+    "name": "Elf",
+    "heritage": "None",
+    "size": "Medium",
+    "source": "PHB'24",
+    "source_full": "Player’s Handbook (2024)",
+    "slug": "elf_xphb"
+  },
+  {
+    "index": 21,
+    "name": "Elf (Eladrin)",
+    "heritage": "Dex +2; Int +1",
+    "size": "Medium",
+    "source": "DMG'14",
+    "source_full": "Dungeon Master’s Guide (2014)",
+    "slug": "elf_eladrin_dmg"
+  },
+  {
+    "index": 22,
+    "name": "Elf (Pallid)",
+    "heritage": "Dex +2; Wis +1",
+    "size": "Medium",
+    "source": "EGW",
+    "source_full": "Explorer’s Guide to Wildemount",
+    "slug": "elf_pallid_egw"
+  },
+  {
+    "index": 23,
+    "name": "Faerie",
+    "heritage": "None",
+    "size": "Small",
+    "source": "LFL",
+    "source_full": "Lorwyn: First Light",
+    "slug": "faerie_lfl"
+  },
+  {
+    "index": 24,
+    "name": "Fairy",
+    "heritage": "Lineage",
+    "size": "Small",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "fairy_mpmm"
+  },
+  {
+    "index": 25,
+    "name": "Firbolg",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "firbolg_mpmm"
+  },
+  {
+    "index": 26,
+    "name": "Flamekin",
+    "heritage": "None",
+    "size": "Small/Medium",
+    "source": "LFL",
+    "source_full": "Lorwyn: First Light",
+    "slug": "flamekin_lfl"
+  },
+  {
+    "index": 27,
+    "name": "Genasi",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "genasi_mpmm"
+  },
+  {
+    "index": 28,
+    "name": "Genasi (Air)",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "genasi_air_mpmm"
+  },
+  {
+    "index": 29,
+    "name": "Genasi (Earth)",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "genasi_earth_mpmm"
+  },
+  {
+    "index": 30,
+    "name": "Genasi (Fire)",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "genasi_fire_mpmm"
+  },
+  {
+    "index": 31,
+    "name": "Genasi (Water)",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "genasi_water_mpmm"
+  },
+  {
+    "index": 32,
+    "name": "Giff",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "AAG",
+    "source_full": "Astral Adventurer’s Guide",
+    "slug": "giff_aag"
+  },
+  {
+    "index": 33,
+    "name": "Githyanki",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "githyanki_mpmm"
+  },
+  {
+    "index": 34,
+    "name": "Githzerai",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "githzerai_mpmm"
+  },
+  {
+    "index": 35,
+    "name": "Gnome",
+    "heritage": "None",
+    "size": "Small",
+    "source": "PHB'24",
+    "source_full": "Player’s Handbook (2024)",
+    "slug": "gnome_xphb"
+  },
+  {
+    "index": 36,
+    "name": "Goblin",
+    "heritage": "Lineage",
+    "size": "Small",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "goblin_mpmm"
+  },
+  {
+    "index": 37,
+    "name": "Goliath",
+    "heritage": "None",
+    "size": "Medium",
+    "source": "PHB'24",
+    "source_full": "Player’s Handbook (2024)",
+    "slug": "goliath_xphb"
+  },
+  {
+    "index": 38,
+    "name": "Hadozee",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "AAG",
+    "source_full": "Astral Adventurer’s Guide",
+    "slug": "hadozee_aag"
+  },
+  {
+    "index": 39,
+    "name": "Half-Elf (Variant; Aquatic Elf Descent)",
+    "heritage": "Cha +2; Any other 2 +1",
+    "size": "Medium",
+    "source": "SCAG",
+    "source_full": "Sword Coast Adventurer’s Guide",
+    "slug": "half_elf_aquatic_scag"
+  },
+  {
+    "index": 40,
+    "name": "Half-Elf (Variant; Drow Descent)",
+    "heritage": "Cha +2; Any other 2 +1",
+    "size": "Medium",
+    "source": "SCAG",
+    "source_full": "Sword Coast Adventurer’s Guide",
+    "slug": "half_elf_drow_scag"
+  },
+  {
+    "index": 41,
+    "name": "Half-Elf (Variant; Moon Elf or Sun Elf Descent)",
+    "heritage": "Cha +2; Any other 2 +1",
+    "size": "Medium",
+    "source": "SCAG",
+    "source_full": "Sword Coast Adventurer’s Guide",
+    "slug": "half_elf_moon_sun_scag"
+  },
+  {
+    "index": 42,
+    "name": "Half-Elf (Variant; Wood Elf Descent)",
+    "heritage": "Cha +2; Any other 2 +1",
+    "size": "Medium",
+    "source": "SCAG",
+    "source_full": "Sword Coast Adventurer’s Guide",
+    "slug": "half_elf_wood_scag"
+  },
+  {
+    "index": 43,
+    "name": "Half-Orc",
+    "heritage": "Str +2; Con +1",
+    "size": "Medium",
+    "source": "PHB'14",
+    "source_full": "Player’s Handbook (2014)",
+    "slug": "half_orc_phb"
+  },
+  {
+    "index": 44,
+    "name": "Halfling",
+    "heritage": "None",
+    "size": "Small",
+    "source": "PHB'24",
+    "source_full": "Player’s Handbook (2024)",
+    "slug": "halfling_xphb"
+  },
+  {
+    "index": 45,
+    "name": "Halfling (Ghostwise)",
+    "heritage": "Dex +2; Wis +1",
+    "size": "Small",
+    "source": "SCAG",
+    "source_full": "Sword Coast Adventurer’s Guide",
+    "slug": "halfling_ghostwise_scag"
+  },
+  {
+    "index": 46,
+    "name": "Halfling (Lotusden)",
+    "heritage": "Dex +2; Wis +1",
+    "size": "Small",
+    "source": "EGW",
+    "source_full": "Explorer’s Guide to Wildemount",
+    "slug": "halfling_lotusden_egw"
+  },
+  {
+    "index": 47,
+    "name": "Harengon",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "harengon_mpmm"
+  },
+  {
+    "index": 48,
+    "name": "Hexblood",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "VRGR",
+    "source_full": "Van Richten’s Guide to Ravenloft",
+    "slug": "hexblood_vrgr"
+  },
+  {
+    "index": 49,
+    "name": "Hobgoblin",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "hobgoblin_mpmm"
+  },
+  {
+    "index": 50,
+    "name": "Human",
+    "heritage": "None",
+    "size": "Small/Medium",
+    "source": "PHB'24",
+    "source_full": "Player’s Handbook (2024)",
+    "slug": "human_xphb"
+  },
+  {
+    "index": 51,
+    "name": "Kalashtar",
+    "heritage": "None",
+    "size": "Medium",
+    "source": "EFA",
+    "source_full": "Eberron: Forge of the Artificer",
+    "slug": "kalashtar_efa"
+  },
+  {
+    "index": 52,
+    "name": "Kender",
+    "heritage": "Lineage",
+    "size": "Small",
+    "source": "DSotDQ",
+    "source_full": "Dragonlance: Shadow of the Dragon Queen",
+    "slug": "kender_dsotdq"
+  },
+  {
+    "index": 53,
+    "name": "Kenku",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "kenku_mpmm"
+  },
+  {
+    "index": 54,
+    "name": "Khoravar",
+    "heritage": "None",
+    "size": "Small/Medium",
+    "source": "EFA",
+    "source_full": "Eberron: Forge of the Artificer",
+    "slug": "khoravar_efa"
+  },
+  {
+    "index": 55,
+    "name": "Kithkin",
+    "heritage": "None",
+    "size": "Small",
+    "source": "LFL",
+    "source_full": "Lorwyn: First Light",
+    "slug": "kithkin_lfl"
+  },
+  {
+    "index": 56,
+    "name": "Kobold",
+    "heritage": "Lineage",
+    "size": "Small",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "kobold_mpmm"
+  },
+  {
+    "index": 57,
+    "name": "Leonin",
+    "heritage": "Con +2; Str +1",
+    "size": "Medium",
+    "source": "MOT",
+    "source_full": "Mythic Odysseys of Theros",
+    "slug": "leonin_mot"
+  },
+  {
+    "index": 58,
+    "name": "Lizardfolk",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "lizardfolk_mpmm"
+  },
+  {
+    "index": 59,
+    "name": "Lorwyn Changeling",
+    "heritage": "None",
+    "size": "Small/Medium",
+    "source": "LFL",
+    "source_full": "Lorwyn: First Light",
+    "slug": "lorwyn_changeling_lfl"
+  },
+  {
+    "index": 60,
+    "name": "Loxodon",
+    "heritage": "Con +2; Wis +1",
+    "size": "Medium",
+    "source": "GGR",
+    "source_full": "Guildmasters’ Guide to Ravnica",
+    "slug": "loxodon_ggr"
+  },
+  {
+    "index": 61,
+    "name": "Minotaur",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "minotaur_mpmm"
+  },
+  {
+    "index": 62,
+    "name": "Orc",
+    "heritage": "None",
+    "size": "Medium",
+    "source": "PHB'24",
+    "source_full": "Player’s Handbook (2024)",
+    "slug": "orc_xphb"
+  },
+  {
+    "index": 63,
+    "name": "Owlin",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "SCC",
+    "source_full": "Strixhaven: A Curriculum of Chaos",
+    "slug": "owlin_scc"
+  },
+  {
+    "index": 64,
+    "name": "Plasmoid",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "AAG",
+    "source_full": "Astral Adventurer’s Guide",
+    "slug": "plasmoid_aag"
+  },
+  {
+    "index": 65,
+    "name": "Reborn",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "VRGR",
+    "source_full": "Van Richten’s Guide to Ravenloft",
+    "slug": "reborn_vrgr"
+  },
+  {
+    "index": 66,
+    "name": "Rimekin",
+    "heritage": "None",
+    "size": "Small/Medium",
+    "source": "LFL",
+    "source_full": "Lorwyn: First Light",
+    "slug": "rimekin_lfl"
+  },
+  {
+    "index": 67,
+    "name": "Satyr",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "satyr_mpmm"
+  },
+  {
+    "index": 68,
+    "name": "Sea Elf",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "sea_elf_mpmm"
+  },
+  {
+    "index": 69,
+    "name": "Shadar-Kai",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "shadar_kai_mpmm"
+  },
+  {
+    "index": 70,
+    "name": "Shifter",
+    "heritage": "None",
+    "size": "Small/Medium",
+    "source": "EFA",
+    "source_full": "Eberron: Forge of the Artificer",
+    "slug": "shifter_efa"
+  },
+  {
+    "index": 71,
+    "name": "Simic Hybrid",
+    "heritage": "Con +2; Any other +1",
+    "size": "Medium",
+    "source": "GGR",
+    "source_full": "Guildmasters’ Guide to Ravnica",
+    "slug": "simic_hybrid_ggr"
+  },
+  {
+    "index": 72,
+    "name": "Tabaxi",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "tabaxi_mpmm"
+  },
+  {
+    "index": 73,
+    "name": "Thri-kreen",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "AAG",
+    "source_full": "Astral Adventurer’s Guide",
+    "slug": "thri_kreen_aag"
+  },
+  {
+    "index": 74,
+    "name": "Tiefling",
+    "heritage": "None",
+    "size": "Small/Medium",
+    "source": "PHB'24",
+    "source_full": "Player’s Handbook (2024)",
+    "slug": "tiefling_xphb"
+  },
+  {
+    "index": 75,
+    "name": "Tiefling (Asmodeus)",
+    "heritage": "Cha +2; Int +1",
+    "size": "Medium",
+    "source": "MTF",
+    "source_full": "Mordenkainen’s Tome of Foes",
+    "slug": "tiefling_asmodeus_mtf"
+  },
+  {
+    "index": 76,
+    "name": "Tiefling (Baalzebul)",
+    "heritage": "Cha +2; Int +1",
+    "size": "Medium",
+    "source": "MTF",
+    "source_full": "Mordenkainen’s Tome of Foes",
+    "slug": "tiefling_baalzebul_mtf"
+  },
+  {
+    "index": 77,
+    "name": "Tiefling (Dispater)",
+    "heritage": "Cha +2; Dex +1",
+    "size": "Medium",
+    "source": "MTF",
+    "source_full": "Mordenkainen’s Tome of Foes",
+    "slug": "tiefling_dispater_mtf"
+  },
+  {
+    "index": 78,
+    "name": "Tiefling (Fierna)",
+    "heritage": "Cha +2; Wis +1",
+    "size": "Medium",
+    "source": "MTF",
+    "source_full": "Mordenkainen’s Tome of Foes",
+    "slug": "tiefling_fierna_mtf"
+  },
+  {
+    "index": 79,
+    "name": "Tiefling (Glasya)",
+    "heritage": "Cha +2; Dex +1",
+    "size": "Medium",
+    "source": "MTF",
+    "source_full": "Mordenkainen’s Tome of Foes",
+    "slug": "tiefling_glasya_mtf"
+  },
+  {
+    "index": 80,
+    "name": "Tiefling (Levistus)",
+    "heritage": "Cha +2; Con +1",
+    "size": "Medium",
+    "source": "MTF",
+    "source_full": "Mordenkainen’s Tome of Foes",
+    "slug": "tiefling_levistus_mtf"
+  },
+  {
+    "index": 81,
+    "name": "Tiefling (Mammon)",
+    "heritage": "Cha +2; Int +1",
+    "size": "Medium",
+    "source": "MTF",
+    "source_full": "Mordenkainen’s Tome of Foes",
+    "slug": "tiefling_mammon_mtf"
+  },
+  {
+    "index": 82,
+    "name": "Tiefling (Mephistopheles)",
+    "heritage": "Cha +2; Int +1",
+    "size": "Medium",
+    "source": "MTF",
+    "source_full": "Mordenkainen’s Tome of Foes",
+    "slug": "tiefling_mephistopheles_mtf"
+  },
+  {
+    "index": 83,
+    "name": "Tiefling (Variant; Devil's Tongue)",
+    "heritage": "Int +1; Dex/Cha +2",
+    "size": "Medium",
+    "source": "SCAG",
+    "source_full": "Sword Coast Adventurer’s Guide",
+    "slug": "tiefling_variant_devils_tongue_scag"
+  },
+  {
+    "index": 84,
+    "name": "Tiefling (Variant; Hellfire)",
+    "heritage": "Int +1; Dex/Cha +2",
+    "size": "Medium",
+    "source": "SCAG",
+    "source_full": "Sword Coast Adventurer’s Guide",
+    "slug": "tiefling_variant_hellfire_scag"
+  },
+  {
+    "index": 85,
+    "name": "Tiefling (Variant; Infernal Legacy)",
+    "heritage": "Int +1; Dex/Cha +2",
+    "size": "Medium",
+    "source": "SCAG",
+    "source_full": "Sword Coast Adventurer’s Guide",
+    "slug": "tiefling_variant_infernal_legacy_scag"
+  },
+  {
+    "index": 86,
+    "name": "Tiefling (Variant; Winged)",
+    "heritage": "Int +1; Dex/Cha +2",
+    "size": "Medium",
+    "source": "SCAG",
+    "source_full": "Sword Coast Adventurer’s Guide",
+    "slug": "tiefling_variant_winged_scag"
+  },
+  {
+    "index": 87,
+    "name": "Tiefling (Zariel)",
+    "heritage": "Cha +2; Str +1",
+    "size": "Medium",
+    "source": "MTF",
+    "source_full": "Mordenkainen’s Tome of Foes",
+    "slug": "tiefling_zariel_mtf"
+  },
+  {
+    "index": 88,
+    "name": "Tortle",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "tortle_mpmm"
+  },
+  {
+    "index": 89,
+    "name": "Triton",
+    "heritage": "Lineage",
+    "size": "Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "triton_mpmm"
+  },
+  {
+    "index": 90,
+    "name": "Vedalken",
+    "heritage": "Int +2; Wis +1",
+    "size": "Medium",
+    "source": "GGR",
+    "source_full": "Guildmasters’ Guide to Ravnica",
+    "slug": "vedalken_ggr"
+  },
+  {
+    "index": 91,
+    "name": "Verdan",
+    "heritage": "Cha +2; Con +1",
+    "size": "Varies",
+    "source": "AI",
+    "source_full": "Acquisitions Incorporated",
+    "slug": "verdan_ai"
+  },
+  {
+    "index": 92,
+    "name": "Warforged",
+    "heritage": "None",
+    "size": "Small/Medium",
+    "source": "EFA",
+    "source_full": "Eberron: Forge of the Artificer",
+    "slug": "warforged_efa"
+  },
+  {
+    "index": 93,
+    "name": "Yuan-Ti",
+    "heritage": "Lineage",
+    "size": "Small/Medium",
+    "source": "MPMM",
+    "source_full": "Mordenkainen Presents: Monsters of the Multiverse",
+    "slug": "yuan_ti_mpmm"
+  }
+]
